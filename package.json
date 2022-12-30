@@ -39,7 +39,7 @@
     "gulp-typescript": "^5.0.0",
     "gulp-watch": "^5.0.1",
     "minimatch": "^3.0.4",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "postcss-url": "^8.0.0",
     "promise-polyfill": "^8.1.0",
     "sinon": "^7.5.0",
